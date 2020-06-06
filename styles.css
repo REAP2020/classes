@@ -1,0 +1,42 @@
+<style type="text/css">
+		/************************************ TAG SELECTOR************************************/		
+		body{
+
+			background-color: #faeee7;
+		}
+
+		hr{
+
+			background-color: white;
+			border-style: none;
+			border-top-style: dotted;
+			border-color: grey;
+			border-width: 5px;
+			height: 2px;
+			width: 5%
+		}
+
+		img:hover{
+			background-color: #33FFE0;
+
+
+		}
+
+		h1,h2,h3,h5{
+			color: #66bfbf;
+		}
+
+		/**********************************Class Selector***************************************/
+
+		.self_pic{
+
+
+		}
+
+		/************************************ID selector*******************************/
+
+		#name_inst{
+			
+		}
+
+	</style>
